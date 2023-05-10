@@ -4,7 +4,7 @@ import "../CSS/profile.css";
 function Profile() {
   return (
     <>
-      <div className="profile-body">
+      <div className="profile-body" >
         <h3>Interest</h3>
           <ul className ="prompts-body">
             <li className="input-border"> 
